@@ -40,6 +40,7 @@ a{
   width: 3rem;
   position: fixed;
   margin: 1rem;
+  z-index: 9999;
 }
 .title{
   text-transform: capitalize;
